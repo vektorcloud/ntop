@@ -1,6 +1,6 @@
 # ntop
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/ntop)
 
 Tiny Alpine image for running [ntop](http://ntop.org)
 
